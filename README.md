@@ -24,7 +24,11 @@ Docker Integration: Simplifies the setup and deployment process with Docker cont
 Technologies Used
 
 Java: Core programming language for back-end development.
+
 Spring Boot: Framework for building the back-end RESTful APIs.
+
 React: JavaScript library for building the front-end UI.
+
 PostgreSQL: Relational database management system for data storage.
+
 Docker: Containerization platform to streamline development and deployment.
