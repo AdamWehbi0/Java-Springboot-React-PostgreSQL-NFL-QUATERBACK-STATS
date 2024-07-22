@@ -1,4 +1,4 @@
-Welcome to the NFL Quarterback Stats project. This repository exemplifies my proficiency in software engineering and back-end development through a comprehensive application that manages and displays NFL quarterback statistics for the 2023 season. 
+Welcome to the NFL Quarterback Stats a comprehensive application that manages and displays NFL quarterback statistics for the 2023 season. 
 Utilizing a robust tech stack, including Java, Spring Boot, React, PostgreSQL, and Docker, this project highlights my capability to build full-stack applications
 
 
