@@ -7,8 +7,11 @@ Welcome to NFL Quarterback Stats, a comprehensive application that manages and d
 🔍 Search Functionality: Easily search for any NFL quarterback from the 2023 season and view their detailed statistics.
 
 📊 Ranking Pages:
+
 🏈 Most Interceptions Thrown: Displays quarterbacks with the highest number of interceptions.
+
 💪 Most Sacked: Shows quarterbacks who were sacked the most.
+
 🚀 Most Yards Thrown: Lists quarterbacks with the highest passing yards.
 
 📥 CSV Data Import: Efficiently loads NFL quarterback statistics from a CSV file into a PostgreSQL database.
